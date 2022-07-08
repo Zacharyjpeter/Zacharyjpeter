@@ -1,4 +1,4 @@
-<h1>What's up! I'm Zachary 🤓</h1>
+<h1>What's up! I'm Zachary 🤓👋🏾</h1>
 <br/>
 I'm interested in front end web and mobile app development. I've been learning HTML, CSS, and Javascript - officially! - since July 2022. My professional background is in higher education and finance. So ideally my next role would incorporate all these interests.
 <br>
