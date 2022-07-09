@@ -4,11 +4,10 @@ I've been learning HTML, CSS, and Javascript since July 2022. Check out my codin
 <br>
 <br>
 <h2>My Story</h2>
-I got into coding after redesigning the website for my current job as a MoneyCoach. Using Adobe Experience Manager and a bit of CSS, I was able to make the site more user friendly. The website is one of my proudest achievements thus far. I work at the University of Oklahoma and I also teach a few first year college courses. In my free time I do contracted customer support for Zogo - a gamified financial literacy app targeting Gen Z. You can check out Zogo on the App Store and Google Play!
+I got into coding after redesigning <a href="https://ou.edu/moneycoach">the website for my current job as a MoneyCoach</a>. Using Adobe Experience Manager and a bit of CSS, I was able to make the site more student friendly. That website is one of my proudest achievements thus far. I work in financial aid at the University of Oklahoma and also teach two college courses for first year students. So I'd say my professional superpower is simplifying information. In my free time I learn HTML and do contractor work for Zogo. Zogo is startup company and a gamified financial literacy app for Gen Z. Their mission compliments my work at OU and my interest in tech. Plus their app is genuinely a cool idea! <a href="https://zogo.com">You can check out their website here.</a>
 <br>
 <br>
-To learn more about me check out my LinkedIn! https://www.Linkedin.com/in/zacharyjpeter94
-
+To learn more about my professional background <a href="https://www.Linkedin.com/in/zacharyjpeter94">visit my LinkedIn!</a>
 <!---
 Zacharyjpeter/Zacharyjpeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
