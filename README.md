@@ -1,6 +1,6 @@
 <h1>What's up! I'm Zachary 🤓👋🏾</h1>
 <br/>
-I've been learning HTML, CSS, and Javascript since July 2022. I'm interested in front end web and mobile app development. My professional background is in higher education and finance. Ideally my next role would incorporate the two.
+I've been learning HTML, CSS, and Javascript (officially) since July 2022. I'm interested in front end web and mobile app development. My professional background is in higher education and finance. Ideally my next role would incorporate the two.
 <br>
 <br>
 <h2>My Story</h2>
