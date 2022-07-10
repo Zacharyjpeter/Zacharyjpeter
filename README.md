@@ -12,7 +12,7 @@ I got into coding after redesigning <a href="https://ou.edu/moneycoach">the webs
 Portfolio site coming soon
 <br>
 <br>
-<img src="https://github.com/Zacharyjpeter/Zacharyjpeter/blob/main/mmswing.gif?raw=true" width="750" class="center"/>
+<img src="https://github.com/Zacharyjpeter/Zacharyjpeter/blob/main/mmjump.gif?raw=true" width="750" class="center"/>
 <strong>^ Me jumping into dev life lol ^</strong>
 <!---
 Zacharyjpeter/Zacharyjpeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
