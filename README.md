@@ -5,7 +5,7 @@ I've been learning HTML, CSS, and Javascript (officially) since July 2022. I'm i
 <h2>My Story</h2>
 I got into coding after redesigning <a href="https://ou.edu/moneycoach">the website for my current job as a MoneyCoach</a>. Using Adobe Experience Manager and a bit of CSS, I made the site more student friendly. As a MoneyCoach, I explain financial jargon and teach college courses for first year students. So I'd say my professional superpower is simplifying information! The website was my first real proof of that.
 <br>
-<br>In my free time I learn HTML and do customer support for Zogo. Zogo is a fintech startup and gamified learning app. Their target audience is Gen Z and their mission compliments my MoneyCoach work. We believe the world needs more financial literacy! <a href="https://zogo.com"> You can check out their website here.</a>
+<br>In my free time I learn HTML and do customer support for Zogo. Zogo is a fintech startup and gamified learning app. Their target audience is Gen Z and their mission compliments my MoneyCoach work. <a href="https://zogo.com"> You can check out their website here.</a>
 <br>
 <br>
 Learn more about me by <a href="https://www.Linkedin.com/in/zacharyjpeter94">visiting my LinkedIn!</a>
