@@ -1,15 +1,18 @@
 <h1>What's up! I'm Zachary 🤓👋🏾</h1>
 <br/>
-I've been learning HTML, CSS, and Javascript (officially) since July 2022. I'm interested in front end web and mobile app development. My professional background is in higher education and finance. Ideally my next role would incorporate the two.
+I've been learning HTML, CSS, and Javascript (officially) since July 2022. I'm interested in front end web and mobile development. My professional background is in higher education and finance. Ideally my next role would incorporate the two.
 <br>
 <br>
 <h2>My Story</h2>
-I got into coding after redesigning <a href="https://ou.edu/moneycoach">the website for my current job as a MoneyCoach</a>. Using Adobe Experience Manager and a bit of CSS, I was able to make the site more student friendly. That website is one of my proudest achievements thus far. I work in financial aid and teach college courses for first year students. So I'd say my professional superpower is simplifying information. 
+I got into coding after redesigning <a href="https://ou.edu/moneycoach">the website for my current job as a MoneyCoach</a>. Using Adobe Experience Manager and a bit of CSS, I made the site more student friendly. It's one of my proudest professional achievements! As a MoneyCoach, I explain financial jargon and teach college courses for first year students. So I'd say my professional superpower is simplifying information. The website was my first real proof of that.
 <br>
-<br>In my free time I learn HTML and do contractor work for Zogo. Zogo is a startup company and gamified financial literacy app for Gen Z. Their mission compliments my MoneyCoach work and my interest in tech. Plus their app is genuinely a cool idea! <a href="https://zogo.com">You can check out their website here.</a>
+<br>In my free time I learn HTML and do customer support for Zogo. Zogo is a fintech startup and gamified learning app. Their target audience is Gen Z and their mission compliments my MoneyCoach work. Plus it gives me an inside look at startup culture! <a href="https://zogo.com"> You can check out their website here.</a>
 <br>
 <br>
-To learn more about my background <a href="https://www.Linkedin.com/in/zacharyjpeter94">visit my LinkedIn!</a>
+Learn more about me by <a href="https://www.Linkedin.com/in/zacharyjpeter94">visiting my LinkedIn!</a>
+<br>
+<br>
+Portfolio site coming soon!
 <!---
 Zacharyjpeter/Zacharyjpeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
