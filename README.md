@@ -9,8 +9,6 @@ I got into coding after redesigning <a href="https://ou.edu/moneycoach">the webs
 <br>
 <a href="https://www.Linkedin.com/in/zacharyjpeter94">Connect with me on LinkedIn!</a>
 <br>
-Portfolio site coming soon
-<br>
 <br>
 <img src="https://github.com/Zacharyjpeter/Zacharyjpeter/blob/main/mmjump.gif?raw=true" width="750" class="center"/>
 <strong>^ Me jumping into dev life lol ^</strong>
