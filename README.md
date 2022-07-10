@@ -10,7 +10,6 @@ I got into coding after redesigning <a href="https://ou.edu/moneycoach">the webs
 <br>
 Learn more about me by <a href="https://www.Linkedin.com/in/zacharyjpeter94">visiting my LinkedIn!</a>
 <br>
-<br>
 <h2>My Stats</h2>
 Portfolio site coming soon!
 <br>
