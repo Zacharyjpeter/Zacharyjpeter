@@ -8,10 +8,6 @@ I got into coding after redesigning <a href="https://ou.edu/moneycoach">the webs
 <br>
 <br>
 <a href="https://www.Linkedin.com/in/zacharyjpeter94">Connect with me on LinkedIn!</a>
-<br>
-<br>
-<img src="https://github.com/Zacharyjpeter/Zacharyjpeter/blob/main/mmjump.gif?raw=true" width="750" class="center"/>
-<strong>^ Me jumping into dev life ^</strong>
 <!---
 Zacharyjpeter/Zacharyjpeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
