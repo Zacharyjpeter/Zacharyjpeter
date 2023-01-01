@@ -2,7 +2,7 @@
 I want to be a web developer. I started coding after redesigning <a href="https://ou.edu/moneycoach">OU's MoneyCoach website</a> using Adobe Experience Manager. I'm learning HTML, CSS, and Javascript. Github helps track my progress.
 <br>
 <br>
-<h2>Current Projects</h2>
+<h3>Current Projects</h3>
 <ol>
   <li><a href="https://github.com/Zacharyjpeter/FCC-RegistrationForm">Registration Form</a> (in progress)</li>
   <li>Coming soon</li>
