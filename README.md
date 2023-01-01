@@ -1,5 +1,4 @@
-<h1>What's up! I'm Zachary 🤓👋🏾</h1>
-<br>
+<h1>Hi I'm Zachary 👋🏾</h1>
 <h2>My Story</h2>
 I got into coding after redesigning <a href="https://ou.edu/moneycoach">the website for my current job as a MoneyCoach</a>. Using Adobe Experience Manager and a bit of CSS, I made the site more student friendly. As a MoneyCoach, I explain financial jargon and teach first year college students. So I'd say my superpower is simplifying information! The website was my first real proof of that.
 <br>
