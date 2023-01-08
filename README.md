@@ -3,8 +3,8 @@ I want to be a web developer. I started coding after redesigning <a href="https:
 <br>
 <h3>Projects</h3>
 <ol>
-  <li><a href="https://github.com/Zacharyjpeter/FCC-SurveyForm">User Feedback Form</a> (in progress)</li>
   <li><a href="https://github.com/Zacharyjpeter/FCC-CSSBoxModel">CSS Box Art</a> (in progress)</li>
+  <li><a href="https://github.com/Zacharyjpeter/FCC-SurveyForm">User Feedback Form</a> (completed + live)</li>
   <li><a href="https://github.com/Zacharyjpeter/FCC-RegistrationForm">User Account Form</a> (completed + live)</li>
   <li>Coming soon</li>
   <li>Coming soon</li>
