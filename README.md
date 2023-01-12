@@ -3,10 +3,10 @@ I want to be a web developer. I started coding after redesigning <a href="https:
 <br>
 <h3>Projects</h3>
 <ol>
-  <li><a href="https://github.com/Zacharyjpeter/FCC-CSSPhotoGallery">Flex Box Photo Gallery</a> (in progress)</li>
+  <li><a href="https://github.com/Zacharyjpeter/FCC-NutritionLabel">Nutritional Label</a> (in progress)</li>
   <li><a href="https://github.com/Zacharyjpeter/FCC-SurveyForm">User Feedback Form</a> (completed + live)</li>
   <li><a href="https://github.com/Zacharyjpeter/FCC-RegistrationForm">User Account Form</a> (completed + live)</li>
-  <li>Coming soon</li>
+  <li><a href="https://github.com/Zacharyjpeter/FCC-CSSPhotoGallery">Flex Box Photo Gallery</a> (completed + live)</li>
   <li>Coming soon</li>
 </ol>
 <a href="https://www.Linkedin.com/in/zacharyjpeter94">Find me on LinkedIn</a>
