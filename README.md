@@ -3,12 +3,12 @@ I'm becoming a web developer. I started coding after redesigning <a href="https:
 <br>
 
 <h3>Noteworthy Projects</h3>
-<p>Based on <a href="https://freecodecamp.org">FreeCodeCamp's</a> curriculum</p>
-
+<p>Based on <a href="https://freecodecamp.org">FreeCodeCamp's</a> curriculum. * = project based on a user story instead of step-by-step instruction.</p>
 <ol>
-  <li><a href="https://github.com/Zacharyjpeter/FCC-AccessibilityQuiz">Simple Accessibility Form</a> (in progress + live)</li>
-  <li><a href="https://github.com/Zacharyjpeter/FCC-NutritionLabel">Nutritional Label</a> (completed + live)</li>
+  <li><a href="https://github.com/Zacharyjpeter/FCC-TributePage">MLK Tribute Page</a>* (in progress + live)</li>
   <li><a href="https://github.com/Zacharyjpeter/FCC-SurveyForm">User Feedback Form</a>* (completed + live)</li>
+  <li><a href="https://github.com/Zacharyjpeter/FCC-AccessibilityQuiz">Simple Accessibility Form</a> (completed + live)</li>
+  <li><a href="https://github.com/Zacharyjpeter/FCC-NutritionLabel">Nutritional Label</a> (completed + live)</li>
   <li><a href="https://github.com/Zacharyjpeter/FCC-RegistrationForm">User Account Form</a> (completed + live)</li>
   <li><a href="https://github.com/Zacharyjpeter/FCC-CSSPhotoGallery">Flex Box Photo Gallery</a> (completed + live)</li>
 </ol>
