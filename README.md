@@ -5,7 +5,7 @@ I'm becoming a web developer. I started coding after redesigning <a href="https:
 <h3>Noteworthy Projects</h3>
 <p>Based on <a href="https://freecodecamp.org">FreeCodeCamp's</a> curriculum. * = project based on a user story instead of step-by-step instruction.</p>
 <ol>
-  <li><a href="https://github.com/zacharyjpeter/FCC-Picasso">CSS Picasso Art</a> (in progress + live)</li>
+  <li><a href="https://github.com/zacharyjpeter/FCC-TechDoc">Most Frustrating Project</a>* (completed + live)</li>
   <li><a href="https://github.com/Zacharyjpeter/FCC-TributePage">MLK Tribute Page</a>* (completed + live)</li>
   <li><a href="https://github.com/Zacharyjpeter/FCC-SurveyForm">User Feedback Form</a>* (completed + live)</li>
   <li><a href="https://github.com/zacharyjpeter/FCC-BalanceSheet">CSS Balance Sheet</a> (completed + live)</li>
